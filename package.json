@@ -1,0 +1,19 @@
+{
+  "name": "react-redux-hooks-perf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Brian Beck <exogen@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "next build",
+    "start": "NODE_ENV=production next start",
+    "start:dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^8.0.4",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.0.2",
+    "redux": "^4.0.1"
+  }
+}
